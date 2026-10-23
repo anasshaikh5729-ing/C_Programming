@@ -11,7 +11,7 @@
 //  Output       : Prints "Valid Triangle" or
 //                 "Invalid Triangle" on the screen
 //  Date         : 22/10/2026
-//  Author       : Neel Janardan Vidar
+//  Author       : Anas Shaikh 
 //
 //////////////////////////////////////////////////////////
 
