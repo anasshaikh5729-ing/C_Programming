@@ -13,7 +13,7 @@
 //                 or "Invalid input" on the screen
 //                 (for 30000 and 12 it prints 4500.00)
 //  Date         : 22/10/2026
-//  Author       : Neel Janardan Vidar
+//  Author       : Anas Shaikh 
 //
 //////////////////////////////////////////////////////////
 
